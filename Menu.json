@@ -1,0 +1,212 @@
+"items":[
+    {
+        "category": "Desayunos" , 
+        "items":{
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            },
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"  
+            },
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"  
+            },
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            },
+
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            },
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            }
+        }
+    },
+    {
+        "category": "Almuerzos" , 
+        "items":{
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            },
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"  
+            },
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"  
+            },
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            },
+
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            },
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            }
+        }
+    },
+    {
+        "category": "Comidas-Aperitivos" , 
+        "items":{
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            },
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"  
+            },
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"  
+            },
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            },
+
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            },
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            }
+        }
+    },
+    {
+        "category": "Postres" , 
+        "items":{
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            },
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"  
+            },
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"  
+            },
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            },
+
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            },
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Huevos al gusto con salsa ranchera  acompañados de frijoles y tortillas.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            }
+        }
+    },
+    {
+        "category": "Bebidas" , 
+        "items":{
+            {
+                "name": "Huevos rancheros" ,
+                "description":"Las bebidas energizantes que contienen cafeína en combinación con otros ingredientes.",
+                "price":"$150.00",
+                "image":"img/1.jpg"
+            },
+            {
+                "name": "bebidas saludables" ,
+                "description":"Una bebida muy refrescante, muy saludable con nutrientes importantes .",
+                "price":"$21.00",
+                "image":"img/1.jpg"  
+            },
+            {
+                "name": "Jugo de frambruesa" ,
+                "description":"Juego de frambruesa elaborada con fruta de la mejor calidad, es un zumo muy nutritivo rico en sustancias vegetales naturales, antioxidantes, vitaminas y minerales.",
+                "price":"$20.00",
+                "image":""  
+            },
+            {
+                "name": "Jugo de naranja" ,
+                "description":"El jugo de naranjas es un producto complejo, formado agua, azucares, acidos organicos, sales minerales, vitaminas y pigmentos, además de una serie de componentes orgánicos volátiles e inestables responsables de su sabor y aroma.",
+                "price":"$25.00",
+                "image":" img/28.jpeg"
+            },
+
+            {
+                "name": "Jugo de fresas con naranja" ,
+                "description":"Jugos de fresascon naranjas, un toque de hierbabuena e hielos al gusto.",
+                "price":"$30.00",
+                "image":"img/29.jpeg"
+            },
+            {
+                "name": "Coca cola" ,
+                "description":"Esta coca cola, redfrescante, es deliciosa y un poco de hielos.",
+                "price":"$30.00 c/u",
+                "image":"img/30.jpeg.jpg"
+            }
+        }
+    }
+]
